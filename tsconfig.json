@@ -6,5 +6,606 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/lib1/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib1/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib2/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib2/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib3/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib3/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib4/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib4/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib5/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib5/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib6/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib6/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib7/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib7/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib8/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib8/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib9/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib9/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib10/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib10/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib11/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib11/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib12/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib12/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib13/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib13/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib14/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib14/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib15/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib15/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib16/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib16/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib17/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib17/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib18/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib18/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib19/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib19/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib20/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib20/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib21/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib21/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib22/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib22/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib23/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib23/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib24/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib24/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib25/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib25/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib26/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib26/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib27/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib27/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib28/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib28/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib29/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib29/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib30/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib30/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib31/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib31/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib32/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib32/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib33/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib33/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib34/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib34/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib35/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib35/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib36/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib36/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib37/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib37/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib38/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib38/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib39/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib39/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib40/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib40/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib41/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib41/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib42/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib42/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib43/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib43/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib44/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib44/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib45/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib45/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib46/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib46/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib47/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib47/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib48/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib48/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib49/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib49/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib50/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib50/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib51/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib51/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib52/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib52/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib53/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib53/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib54/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib54/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib55/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib55/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib56/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib56/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib57/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib57/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib58/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib58/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib59/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib59/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib60/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib60/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib61/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib61/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib62/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib62/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib63/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib63/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib64/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib64/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib65/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib65/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib66/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib66/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib67/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib67/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib68/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib68/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib69/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib69/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib70/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib70/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib71/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib71/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib72/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib72/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib73/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib73/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib74/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib74/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib75/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib75/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib76/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib76/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib77/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib77/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib78/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib78/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib79/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib79/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib80/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib80/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib81/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib81/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib82/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib82/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib83/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib83/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib84/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib84/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib85/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib85/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib86/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib86/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib87/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib87/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib88/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib88/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib89/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib89/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib90/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib90/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib91/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib91/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib92/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib92/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib93/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib93/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib94/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib94/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib95/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib95/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib96/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib96/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib97/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib97/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib98/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib98/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib99/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib99/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lib100/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lib100/tsconfig.spec.json"
+    }
+]
 }

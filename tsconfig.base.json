@@ -1,4 +1,3 @@
-/* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
   "compileOnSave": false,
   "compilerOptions": {
@@ -15,6 +14,408 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "lib1": [
+        "dist/lib1/lib1",
+        "dist/lib1"
+      ],
+      "lib2": [
+        "dist/lib2/lib2",
+        "dist/lib2"
+      ],
+      "lib3": [
+        "dist/lib3/lib3",
+        "dist/lib3"
+      ],
+      "lib4": [
+        "dist/lib4/lib4",
+        "dist/lib4"
+      ],
+      "lib5": [
+        "dist/lib5/lib5",
+        "dist/lib5"
+      ],
+      "lib6": [
+        "dist/lib6/lib6",
+        "dist/lib6"
+      ],
+      "lib7": [
+        "dist/lib7/lib7",
+        "dist/lib7"
+      ],
+      "lib8": [
+        "dist/lib8/lib8",
+        "dist/lib8"
+      ],
+      "lib9": [
+        "dist/lib9/lib9",
+        "dist/lib9"
+      ],
+      "lib10": [
+        "dist/lib10/lib10",
+        "dist/lib10"
+      ],
+      "lib11": [
+        "dist/lib11/lib11",
+        "dist/lib11"
+      ],
+      "lib12": [
+        "dist/lib12/lib12",
+        "dist/lib12"
+      ],
+      "lib13": [
+        "dist/lib13/lib13",
+        "dist/lib13"
+      ],
+      "lib14": [
+        "dist/lib14/lib14",
+        "dist/lib14"
+      ],
+      "lib15": [
+        "dist/lib15/lib15",
+        "dist/lib15"
+      ],
+      "lib16": [
+        "dist/lib16/lib16",
+        "dist/lib16"
+      ],
+      "lib17": [
+        "dist/lib17/lib17",
+        "dist/lib17"
+      ],
+      "lib18": [
+        "dist/lib18/lib18",
+        "dist/lib18"
+      ],
+      "lib19": [
+        "dist/lib19/lib19",
+        "dist/lib19"
+      ],
+      "lib20": [
+        "dist/lib20/lib20",
+        "dist/lib20"
+      ],
+      "lib21": [
+        "dist/lib21/lib21",
+        "dist/lib21"
+      ],
+      "lib22": [
+        "dist/lib22/lib22",
+        "dist/lib22"
+      ],
+      "lib23": [
+        "dist/lib23/lib23",
+        "dist/lib23"
+      ],
+      "lib24": [
+        "dist/lib24/lib24",
+        "dist/lib24"
+      ],
+      "lib25": [
+        "dist/lib25/lib25",
+        "dist/lib25"
+      ],
+      "lib26": [
+        "dist/lib26/lib26",
+        "dist/lib26"
+      ],
+      "lib27": [
+        "dist/lib27/lib27",
+        "dist/lib27"
+      ],
+      "lib28": [
+        "dist/lib28/lib28",
+        "dist/lib28"
+      ],
+      "lib29": [
+        "dist/lib29/lib29",
+        "dist/lib29"
+      ],
+      "lib30": [
+        "dist/lib30/lib30",
+        "dist/lib30"
+      ],
+      "lib31": [
+        "dist/lib31/lib31",
+        "dist/lib31"
+      ],
+      "lib32": [
+        "dist/lib32/lib32",
+        "dist/lib32"
+      ],
+      "lib33": [
+        "dist/lib33/lib33",
+        "dist/lib33"
+      ],
+      "lib34": [
+        "dist/lib34/lib34",
+        "dist/lib34"
+      ],
+      "lib35": [
+        "dist/lib35/lib35",
+        "dist/lib35"
+      ],
+      "lib36": [
+        "dist/lib36/lib36",
+        "dist/lib36"
+      ],
+      "lib37": [
+        "dist/lib37/lib37",
+        "dist/lib37"
+      ],
+      "lib38": [
+        "dist/lib38/lib38",
+        "dist/lib38"
+      ],
+      "lib39": [
+        "dist/lib39/lib39",
+        "dist/lib39"
+      ],
+      "lib40": [
+        "dist/lib40/lib40",
+        "dist/lib40"
+      ],
+      "lib41": [
+        "dist/lib41/lib41",
+        "dist/lib41"
+      ],
+      "lib42": [
+        "dist/lib42/lib42",
+        "dist/lib42"
+      ],
+      "lib43": [
+        "dist/lib43/lib43",
+        "dist/lib43"
+      ],
+      "lib44": [
+        "dist/lib44/lib44",
+        "dist/lib44"
+      ],
+      "lib45": [
+        "dist/lib45/lib45",
+        "dist/lib45"
+      ],
+      "lib46": [
+        "dist/lib46/lib46",
+        "dist/lib46"
+      ],
+      "lib47": [
+        "dist/lib47/lib47",
+        "dist/lib47"
+      ],
+      "lib48": [
+        "dist/lib48/lib48",
+        "dist/lib48"
+      ],
+      "lib49": [
+        "dist/lib49/lib49",
+        "dist/lib49"
+      ],
+      "lib50": [
+        "dist/lib50/lib50",
+        "dist/lib50"
+      ],
+      "lib51": [
+        "dist/lib51/lib51",
+        "dist/lib51"
+      ],
+      "lib52": [
+        "dist/lib52/lib52",
+        "dist/lib52"
+      ],
+      "lib53": [
+        "dist/lib53/lib53",
+        "dist/lib53"
+      ],
+      "lib54": [
+        "dist/lib54/lib54",
+        "dist/lib54"
+      ],
+      "lib55": [
+        "dist/lib55/lib55",
+        "dist/lib55"
+      ],
+      "lib56": [
+        "dist/lib56/lib56",
+        "dist/lib56"
+      ],
+      "lib57": [
+        "dist/lib57/lib57",
+        "dist/lib57"
+      ],
+      "lib58": [
+        "dist/lib58/lib58",
+        "dist/lib58"
+      ],
+      "lib59": [
+        "dist/lib59/lib59",
+        "dist/lib59"
+      ],
+      "lib60": [
+        "dist/lib60/lib60",
+        "dist/lib60"
+      ],
+      "lib61": [
+        "dist/lib61/lib61",
+        "dist/lib61"
+      ],
+      "lib62": [
+        "dist/lib62/lib62",
+        "dist/lib62"
+      ],
+      "lib63": [
+        "dist/lib63/lib63",
+        "dist/lib63"
+      ],
+      "lib64": [
+        "dist/lib64/lib64",
+        "dist/lib64"
+      ],
+      "lib65": [
+        "dist/lib65/lib65",
+        "dist/lib65"
+      ],
+      "lib66": [
+        "dist/lib66/lib66",
+        "dist/lib66"
+      ],
+      "lib67": [
+        "dist/lib67/lib67",
+        "dist/lib67"
+      ],
+      "lib68": [
+        "dist/lib68/lib68",
+        "dist/lib68"
+      ],
+      "lib69": [
+        "dist/lib69/lib69",
+        "dist/lib69"
+      ],
+      "lib70": [
+        "dist/lib70/lib70",
+        "dist/lib70"
+      ],
+      "lib71": [
+        "dist/lib71/lib71",
+        "dist/lib71"
+      ],
+      "lib72": [
+        "dist/lib72/lib72",
+        "dist/lib72"
+      ],
+      "lib73": [
+        "dist/lib73/lib73",
+        "dist/lib73"
+      ],
+      "lib74": [
+        "dist/lib74/lib74",
+        "dist/lib74"
+      ],
+      "lib75": [
+        "dist/lib75/lib75",
+        "dist/lib75"
+      ],
+      "lib76": [
+        "dist/lib76/lib76",
+        "dist/lib76"
+      ],
+      "lib77": [
+        "dist/lib77/lib77",
+        "dist/lib77"
+      ],
+      "lib78": [
+        "dist/lib78/lib78",
+        "dist/lib78"
+      ],
+      "lib79": [
+        "dist/lib79/lib79",
+        "dist/lib79"
+      ],
+      "lib80": [
+        "dist/lib80/lib80",
+        "dist/lib80"
+      ],
+      "lib81": [
+        "dist/lib81/lib81",
+        "dist/lib81"
+      ],
+      "lib82": [
+        "dist/lib82/lib82",
+        "dist/lib82"
+      ],
+      "lib83": [
+        "dist/lib83/lib83",
+        "dist/lib83"
+      ],
+      "lib84": [
+        "dist/lib84/lib84",
+        "dist/lib84"
+      ],
+      "lib85": [
+        "dist/lib85/lib85",
+        "dist/lib85"
+      ],
+      "lib86": [
+        "dist/lib86/lib86",
+        "dist/lib86"
+      ],
+      "lib87": [
+        "dist/lib87/lib87",
+        "dist/lib87"
+      ],
+      "lib88": [
+        "dist/lib88/lib88",
+        "dist/lib88"
+      ],
+      "lib89": [
+        "dist/lib89/lib89",
+        "dist/lib89"
+      ],
+      "lib90": [
+        "dist/lib90/lib90",
+        "dist/lib90"
+      ],
+      "lib91": [
+        "dist/lib91/lib91",
+        "dist/lib91"
+      ],
+      "lib92": [
+        "dist/lib92/lib92",
+        "dist/lib92"
+      ],
+      "lib93": [
+        "dist/lib93/lib93",
+        "dist/lib93"
+      ],
+      "lib94": [
+        "dist/lib94/lib94",
+        "dist/lib94"
+      ],
+      "lib95": [
+        "dist/lib95/lib95",
+        "dist/lib95"
+      ],
+      "lib96": [
+        "dist/lib96/lib96",
+        "dist/lib96"
+      ],
+      "lib97": [
+        "dist/lib97/lib97",
+        "dist/lib97"
+      ],
+      "lib98": [
+        "dist/lib98/lib98",
+        "dist/lib98"
+      ],
+      "lib99": [
+        "dist/lib99/lib99",
+        "dist/lib99"
+      ],
+      "lib100": [
+        "dist/lib100/lib100",
+        "dist/lib100"
+      ]
+    }
   }
 }
